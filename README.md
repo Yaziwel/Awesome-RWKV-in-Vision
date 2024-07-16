@@ -12,7 +12,7 @@ RWKV5&6:  [![Star](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style
 - [Image Restoration](#image-restoration)
 - [Image Generation](#image-generation)
 - [Image Segmentation](#image-segmentation)
-- [CLIP](#clip)
+- [Vision-Language Model](#vision-language-model)
 - [3D Point Cloud Learning](#3d-point-cloud-learning)
 
 ### Vision Backbone
@@ -23,9 +23,9 @@ RWKV5&6:  [![Star](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style
 
 ### Image Restoration
 
-| Title                                                        | Code                                                         | Link |
-| :----------------------------------------------------------- | ------------------------------------------------------------ | ---- |
-| Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV | [![Star](https://img.shields.io/github/stars/Yaziwel/Restore-RWKV.svg?style=social&label=Star)](https://github.com/Yaziwel/Restore-RWKV) |      |
+| Title                                                        | Code                                                         | Link                                                         |
+| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV | [![Star](https://img.shields.io/github/stars/Yaziwel/Restore-RWKV.svg?style=social&label=Star)](https://github.com/Yaziwel/Restore-RWKV) | [LINK](https://github.com/Yaziwel/Restore-RWKV/blob/main/Restore_RWKV__Efficient_and_Effective_Medical_Image_Restoration_with_RWKV.pdf) |
 
 ### Image Generation
 
@@ -40,10 +40,11 @@ RWKV5&6:  [![Star](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style
 | Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures | [![Star](https://img.shields.io/github/stars/OpenGVLab/Vision-RWKV.svg?style=social&label=Star)](https://github.com/OpenGVLab/Vision-RWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02308) |
 | Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model | [![Star](https://img.shields.io/github/stars/HarborYuan/ovsam.svg?style=social&label=Star)](https://github.com/HarborYuan/ovsam) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19369) |
 
-### CLIP
+### Vision-Language Model
 
 | Title                                                      | Code                                                         | Link                                                         |
 | :--------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| VisualRWKV: Visual Language model based on RWKV            | [![Star](https://img.shields.io/github/stars/howard-hou/VisualRWKV.svg?style=social&label=Star)](https://github.com/howard-hou/VisualRWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.13362) |
 | RWKV-CLIP: A Robust Vision-Language Representation Learner | [![Star](https://img.shields.io/github/stars/deepglint/RWKV-CLIP.svg?style=social&label=Star)](https://github.com/HarborYuan/ovsam) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.06973) |
 
 ### 3D Point Cloud Learning
