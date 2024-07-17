@@ -25,7 +25,7 @@ RWKV5&6:  [![Star](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style
 
 | Title                                                        | Code                                                         | Link                                                         |
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV | [![Star](https://img.shields.io/github/stars/Yaziwel/Restore-RWKV.svg?style=social&label=Star)](https://github.com/Yaziwel/Restore-RWKV) | [LINK](https://github.com/Yaziwel/Restore-RWKV/blob/main/Restore_RWKV__Efficient_and_Effective_Medical_Image_Restoration_with_RWKV.pdf) |
+| Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV | [![Star](https://img.shields.io/github/stars/Yaziwel/Restore-RWKV.svg?style=social&label=Star)](https://github.com/Yaziwel/Restore-RWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.11087) |
 
 ### Image Generation
 
