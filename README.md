@@ -1,4 +1,4 @@
-# Awesome-RWKV-in-Vision
+# Awesome-RWKV-in-Vision [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Yaziwel/Awesome-RWKV-in-Vision) 
 
 ![Image](https://pbs.twimg.com/media/GLbj1TyasAA9WF0?format=jpg&name=4096x4096)
 
