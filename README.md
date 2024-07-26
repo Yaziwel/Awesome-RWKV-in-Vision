@@ -47,7 +47,7 @@ RWKV Ecosystem: https://rwkv.cn/eco
 | Title                                                      | Code                                                         | Link                                                         |
 | :--------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | VisualRWKV: Visual Language model based on RWKV            | [![Star](https://img.shields.io/github/stars/howard-hou/VisualRWKV.svg?style=social&label=Star)](https://github.com/howard-hou/VisualRWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.13362) |
-| RWKV-CLIP: A Robust Vision-Language Representation Learner | [![Star](https://img.shields.io/github/stars/deepglint/RWKV-CLIP.svg?style=social&label=Star)](https://github.com/HarborYuan/ovsam) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.06973) |
+| RWKV-CLIP: A Robust Vision-Language Representation Learner | [![Star](https://img.shields.io/github/stars/deepglint/RWKV-CLIP.svg?style=social&label=Star)](https://github.com/deepglint/RWKV-CLIP) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.06973) |
 
 ### 3D Point Cloud Learning
 
