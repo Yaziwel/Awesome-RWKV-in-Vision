@@ -41,6 +41,7 @@ RWKV Ecosystem: https://rwkv.cn/eco
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures | [![Star](https://img.shields.io/github/stars/OpenGVLab/Vision-RWKV.svg?style=social&label=Star)](https://github.com/OpenGVLab/Vision-RWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02308) |
 | Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model | [![Star](https://img.shields.io/github/stars/HarborYuan/ovsam.svg?style=social&label=Star)](https://github.com/HarborYuan/ovsam) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19369) |
+| BSBP-RWKV: Background Suppression with Boundary Preservation for Efficient Medical Image Segmentation |                                                              | [LINK](https://openreview.net/forum?id=ULD5RCk0oo)           |
 
 ### Vision-Language Model
 
