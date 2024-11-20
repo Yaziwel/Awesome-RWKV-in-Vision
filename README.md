@@ -16,11 +16,12 @@ RWKV Ecosystem: https://rwkv.cn/eco
 - [Image Segmentation](#image-segmentation)
 - [Vision-Language Model](#vision-language-model)
 - [3D Point Cloud Learning](#3d-point-cloud-learning)
+- [Video Understanding](#video-understanding)
 
 ### Vision Backbone
 
 | Title                                                        | Code                                                         | Link                                                         |
-| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures | [![Star](https://img.shields.io/github/stars/OpenGVLab/Vision-RWKV.svg?style=social&label=Star)](https://github.com/OpenGVLab/Vision-RWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02308) |
 
 ### Image Restoration
@@ -38,10 +39,10 @@ RWKV Ecosystem: https://rwkv.cn/eco
 ### Image Segmentation
 
 | Title                                                        | Code                                                         | Link                                                         |
-| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures | [![Star](https://img.shields.io/github/stars/OpenGVLab/Vision-RWKV.svg?style=social&label=Star)](https://github.com/OpenGVLab/Vision-RWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02308) |
 | Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model | [![Star](https://img.shields.io/github/stars/HarborYuan/ovsam.svg?style=social&label=Star)](https://github.com/HarborYuan/ovsam) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19369) |
-| BSBP-RWKV: Background Suppression with Boundary Preservation for Efficient Medical Image Segmentation |                                                              | [LINK](https://openreview.net/forum?id=ULD5RCk0oo)           |
+| BSBP-RWKV: Background Suppression with Boundary Preservation for Efficient Medical Image Segmentation | N/A                                                          | [LINK](https://openreview.net/forum?id=ULD5RCk0oo)           |
 
 ### Vision-Language Model
 
@@ -57,3 +58,9 @@ RWKV Ecosystem: https://rwkv.cn/eco
 | PointRWKV: Efficient RWKV-Like Model for Hierarchical Point Cloud Learning | [![Star](https://img.shields.io/github/stars/hithqd/PointRWKV.svg?style=social&label=Star)](https://github.com/hithqd/PointRWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.15214) |
 | LION: Linear Group RNN for 3D Object Detection in Point Clouds | [![Star](https://img.shields.io/github/stars/happinesslz/LION.svg?style=social&label=Star)](https://github.com/happinesslz/LION) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.18232) |
 | OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity | [![Star](https://img.shields.io/github/stars/jmwang0117/OccRWKV.svg?style=social&label=Star)](https://github.com/jmwang0117/OccRWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2409.19987) |
+
+### Video Understanding
+
+| Title                                           | Code | Link                                                         |
+| :---------------------------------------------- | ---- | ------------------------------------------------------------ |
+| Video RWKV: Video Action Recognition Based RWKV | N/A  | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.05636) |
