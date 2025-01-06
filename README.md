@@ -6,7 +6,7 @@ RWKV4:  [![Star](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style=s
 
 RWKV5&6:  [![Star](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style=social&label=Star)](https://github.com/BlinkDL/RWKV-LM)[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.05892)
 
-RWKV Ecosystem: https://rwkv.cn/eco
+RWKV Ecosystem: https://rwkv.cn/eco 
 
 ## Table of Contents 
 
@@ -17,6 +17,7 @@ RWKV Ecosystem: https://rwkv.cn/eco
 - [Vision-Language Model](#vision-language-model)
 - [3D Point Cloud Learning](#3d-point-cloud-learning)
 - [Video Understanding](#video-understanding)
+- [Survey](#survey)
 
 ### Vision Backbone
 
@@ -29,6 +30,7 @@ RWKV Ecosystem: https://rwkv.cn/eco
 | Title                                                        | Code                                                         | Link                                                         |
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV | [![Star](https://img.shields.io/github/stars/Yaziwel/Restore-RWKV.svg?style=social&label=Star)](https://github.com/Yaziwel/Restore-RWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.11087) |
+| GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution | N/A                                                          | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2501.01460) |
 
 ### Image Generation
 
@@ -64,3 +66,12 @@ RWKV Ecosystem: https://rwkv.cn/eco
 | Title                                           | Code | Link                                                         |
 | :---------------------------------------------- | ---- | ------------------------------------------------------------ |
 | Video RWKV: Video Action Recognition Based RWKV | N/A  | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.05636) |
+
+### Survey
+
+| Title                                                        | Code                                                         | Link                                                         |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
+| A Survey of RWKV                                             | [![Star](https://img.shields.io/github/stars/MLGroupJLU/RWKV-Survey.svg?style=social&label=Star)](https://github.com/MLGroupJLU/RWKV-Survey) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.14847) |
+| From Transformers to the Future: An In-Depth Exploration of Modern Language Model Architectures | N/A                                                          | [LINK](https://osf.io/n8r5j/download)                        |
+| The Evolution of RWKV: Advancements in Efficient Language Modeling | N/A                                                          | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.02795) |
+
