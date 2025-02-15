@@ -12,6 +12,7 @@ RWKV Ecosystem: https://rwkv.cn/eco
 
 - [Vision Backbone](#vision-backbone)
 - [Image Restoration](#image-restoration)
+- [Image Compression](#image-compression)
 - [Image Generation](#image-generation)
 - [Image Segmentation](#image-segmentation)
 - [Vision-Language Model](#vision-language-model)
@@ -31,6 +32,13 @@ RWKV Ecosystem: https://rwkv.cn/eco
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV | [![Star](https://img.shields.io/github/stars/Yaziwel/Restore-RWKV.svg?style=social&label=Star)](https://github.com/Yaziwel/Restore-RWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.11087) |
 | GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution | N/A                                                          | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2501.01460) |
+| Exploring Linear Attention Alternative for Single Image Super-Resolution | [![Star](https://img.shields.io/github/stars/question110/omnirwkvsr.svg?style=social&label=Star)](https://github.com/question110/omnirwkvsr) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.00404) |
+
+### Image Compression
+
+| Title                                                   | Code | Link                                                         |
+| :------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| Linear Attention Modeling for Learned Image Compression | N/A  | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.05741) |
 
 ### Image Generation
 
