@@ -54,6 +54,7 @@ RWKV Ecosystem: https://rwkv.cn/eco
 | Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model | [![Star](https://img.shields.io/github/stars/HarborYuan/ovsam.svg?style=social&label=Star)](https://github.com/HarborYuan/ovsam) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19369) |
 | BSBP-RWKV: Background Suppression with Boundary Preservation for Efficient Medical Image Segmentation | N/A                                                          | [LINK](https://openreview.net/forum?id=ULD5RCk0oo)           |
 | RWKV-UNet: Improving UNet with Long-Range Cooperation for Effective Medical Image Segmentation | [![Star](https://img.shields.io/github/stars/juntaoJianggavin/RWKV-UNet.svg?style=social&label=Star)](https://github.com/juntaoJianggavin/RWKV-UNet) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.08458) |
+| Zig-RiR: Zigzag RWKV-in-RWKV for Efficient Medical Image Segmentation | [![Star](https://img.shields.io/github/stars/txchen-USTC/Zig-RiR.svg?style=social&label=Star)](https://github.com/txchen-USTC/Zig-RiR) | [![LINK](https://ieeexplore.ieee.org/document/10969076) |
 
 ### Vision-Language Model
 
