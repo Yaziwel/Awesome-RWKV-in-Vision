@@ -6,6 +6,8 @@ RWKV4:  [![Star](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style=s
 
 RWKV5&6:  [![Star](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style=social&label=Star)](https://github.com/BlinkDL/RWKV-LM)[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.05892)
 
+RWKV7:  [![Star](https://img.shields.io/github/stars/BlinkDL/RWKV-LM.svg?style=social&label=Star)](https://github.com/BlinkDL/RWKV-LM)[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14456)
+
 RWKV Ecosystem: https://rwkv.cn/eco 
 
 ## Table of Contents 
@@ -14,6 +16,7 @@ RWKV Ecosystem: https://rwkv.cn/eco
 - [Image Restoration](#image-restoration)
 - [Image Compression](#image-compression)
 - [Image Generation](#image-generation)
+- [Video Generation](#video-generation)
 - [Image Segmentation](#image-segmentation)
 - [Vision-Language Model](#vision-language-model)
 - [3D Point Cloud Learning](#3d-point-cloud-learning)
@@ -33,12 +36,14 @@ RWKV Ecosystem: https://rwkv.cn/eco
 | Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV | [![Star](https://img.shields.io/github/stars/Yaziwel/Restore-RWKV.svg?style=social&label=Star)](https://github.com/Yaziwel/Restore-RWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.11087) |
 | GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution | N/A                                                          | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2501.01460) |
 | Exploring Linear Attention Alternative for Single Image Super-Resolution | [![Star](https://img.shields.io/github/stars/question110/omnirwkvsr.svg?style=social&label=Star)](https://github.com/question110/omnirwkvsr) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.00404) |
+| URWKV: Unified RWKV Model with Multi-state Perspective for Low-light Image Restoration | [![Star](https://img.shields.io/github/stars/FZU-N/URWKV.svg?style=social&label=Star)](https://github.com/FZU-N/URWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.23068) |
+| Multi-View Learning with Context-Guided Receptance for Image Denoising | [![Star](https://img.shields.io/github/stars/Seeker98/CRWKV.svg?style=social&label=Star)](https://github.com/Seeker98/CRWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.02705) |
 
 ### Image Compression
 
-| Title                                                   | Code | Link                                                         |
-| :------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| Linear Attention Modeling for Learned Image Compression | N/A  | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.05741) |
+| Title                                                   | Code                                                         | Link                                                         |
+| :------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Linear Attention Modeling for Learned Image Compression | [![Star](https://img.shields.io/github/stars/sjtu-medialab/RwkvCompress.svg?style=social&label=Star)](https://github.com/sjtu-medialab/RwkvCompress) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.05741) |
 
 ### Image Generation
 
@@ -46,15 +51,23 @@ RWKV Ecosystem: https://rwkv.cn/eco
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Diffusion-RWKV: Scaling RWKV-Like Architectures for Diffusion Models | [![Star](https://img.shields.io/github/stars/feizc/Diffusion-RWKV.svg?style=social&label=Star)](https://github.com/feizc/Diffusion-RWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.04478) |
 
+### Video Generation
+
+| Title                                                        | Code                                                         | Link                                                         |
+| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation | [![Star](https://img.shields.io/github/stars/Yaziwel/FEAT.svg?style=social&label=Star)](https://github.com/Yaziwel/FEAT) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.04956) |
+
 ### Image Segmentation
 
 | Title                                                        | Code                                                         | Link                                                         |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures | [![Star](https://img.shields.io/github/stars/OpenGVLab/Vision-RWKV.svg?style=social&label=Star)](https://github.com/OpenGVLab/Vision-RWKV) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02308) |
 | Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model | [![Star](https://img.shields.io/github/stars/HarborYuan/ovsam.svg?style=social&label=Star)](https://github.com/HarborYuan/ovsam) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19369) |
-| BSBP-RWKV: Background Suppression with Boundary Preservation for Efficient Medical Image Segmentation | N/A                                                          | [LINK](https://openreview.net/forum?id=ULD5RCk0oo)           |
+| BSBP-RWKV: Background Suppression with Boundary Preservation for Efficient Medical Image Segmentation | N/A                                                          | [ACMMM](https://openreview.net/forum?id=ULD5RCk0oo)          |
 | RWKV-UNet: Improving UNet with Long-Range Cooperation for Effective Medical Image Segmentation | [![Star](https://img.shields.io/github/stars/juntaoJianggavin/RWKV-UNet.svg?style=social&label=Star)](https://github.com/juntaoJianggavin/RWKV-UNet) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.08458) |
-| Zig-RiR: Zigzag RWKV-in-RWKV for Efficient Medical Image Segmentation | [![Star](https://img.shields.io/github/stars/txchen-USTC/Zig-RiR.svg?style=social&label=Star)](https://github.com/txchen-USTC/Zig-RiR) | [LINK](https://ieeexplore.ieee.org/document/10969076) |
+| Zig-RiR: Zigzag RWKV-in-RWKV for Efficient Medical Image Segmentation | [![Star](https://img.shields.io/github/stars/txchen-USTC/Zig-RiR.svg?style=social&label=Star)](https://github.com/txchen-USTC/Zig-RiR) | [IEEE-TMI](https://ieeexplore.ieee.org/document/10969076)    |
+| ScaleMatch: Multi-scale Consistency Enhancement for Semi-supervised Semantic Segmentation | [![Star](https://img.shields.io/github/stars/lvliang6879/ScaleMatch.svg?style=social&label=Star)](https://github.com/lvliang6879/ScaleMatch) | [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32631/34786) |
+| RSRWKV: A Linear-Complexity 2D Attention Mechanism for Efficient Remote Sensing Vision Task | N/A                                                          | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.20382) |
 
 ### Vision-Language Model
 
